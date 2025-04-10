@@ -5,7 +5,7 @@ This repository contains a sample website built using the Bootstrap framework. I
 
 * HTML5
 * CSS3
-* Bootstrap (version [Specify the Bootstrap version you used, e.g., 5.x])
+* Bootstrap
 
 ## Contributing
 
